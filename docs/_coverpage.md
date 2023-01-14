@@ -1,14 +1,11 @@
 <!-- _coverpage.md -->
 
-# docsify <small>3.5</small>
+<!-- ![logo](_media/icon.svg) -->
+<img src="imagens/logo.png" width="200px" height="200px"  alt="Logomarcas — IFAC Instituto Federal do Acre"/>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+ <h2>Desejamos boas-vindas ao Manual de Sobrevivencia do IFAC</h2>
 
-<!-- background image -->
 
-![](_media/bg.png)
+[Vamos lá](paginas/apresentacao.md)
 
-<!-- background color -->
 
-![color](#f0f0f0)
