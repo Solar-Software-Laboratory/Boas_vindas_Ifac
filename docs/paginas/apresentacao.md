@@ -7,6 +7,7 @@
       <div class="row">
         <button class="btnMapa col">SIGAA</button>
         <button class="btnMapa col">IFAC</button>
+        <button class="btnMapa col">Biblioteca Virtual</button>
       </div>
       <div class="row">
         <button class="btnMapa col">Grupo WhatsApp</button>

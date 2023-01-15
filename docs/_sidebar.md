@@ -10,7 +10,7 @@
 * [<ion-icon name="receipt-outline"></ion-icon> Regras](paginas/regras.md)
 * [<ion-icon name="wifi-outline"></ion-icon> WIFI](paginas/wifi.md "WIFI")
 * [<ion-icon name="help-outline"></ion-icon> Ajuda](paginas/guide.md "Ajuda")
-* [<ion-icon name="hammer-outline"></ion-icon> Colaboradores](paginas/colaboradores.md "Colaboradores")
+* [<ion-icon name="hammer-outline"></ion-icon> Desenvolvedores](paginas/desenvolvedores.md "Desenvolvedores")
 
 
 
