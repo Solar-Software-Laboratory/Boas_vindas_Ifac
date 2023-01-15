@@ -13,7 +13,9 @@ Para adicionar uma nova pagina:
 - criar um novo arquivo `.md` na pasta `/paginas`.
 - Adicione a seguinte linha ao arquivo `_sidebar.md`:
    * [`<ion-icon name="nome do icon"></ion-icon> Nome da Pagina](paginas/nome_do_Arquivo.md "Titulo da pagina")`
-   - `nome do icone`: Nome do ícone que acompanhará o link na barra lateral. Você pode consultar os ícones disponíveis no [ion-Icons](https://ionic.io/ionicons).  
+   - `nome do icone`: Nome do ícone que acompanhará o link na barra lateral. Você pode consultar os ícones disponíveis no [ion-Icons](https://ionic.io/ionicons).
+   `titulo da pagina`: Título da página na barra lateral.  
+   `nome_do_Arquivo`: Nome do arquivo da página correspondente.  
 
 ### Editando a página inicial
 
