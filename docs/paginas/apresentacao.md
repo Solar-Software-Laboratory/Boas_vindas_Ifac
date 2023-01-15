@@ -6,11 +6,11 @@
       </div>
       <div class="row">
         <button class="btnMapa col">SIGAA</button>
-        <button class="btnMapa col">Mapa</button>
+        <button class="btnMapa col">IFAC</button>
       </div>
       <div class="row">
-        <button class="btnMapa col">IFAC</button>
-        <Button class="btnMapa col">Solar</Button>
+        <button class="btnMapa col">Grupo WhatsApp</button>
+        <Button class="btnMapa col">SOLAR</Button>
       </div>
 </div>
 

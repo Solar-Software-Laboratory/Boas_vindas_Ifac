@@ -2,14 +2,14 @@
     color: black;
 }
 ion-icon {
-    color: #ea6f5a;
+    color: green;
 }
 /* #menuBtn{
   
 } */
 .btnMapa{
-  background-color: #ea6f5a;
-  border: solid 1px #ea6f5a;
+  background-color: green;
+  border: solid 1px green;
   padding: 30px;
   font-weight: bold;
   color: white;
