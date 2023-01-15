@@ -4,7 +4,7 @@ O Manual de sobrevivência tem como objetivo juntar informações do Instituto f
 
 O projeto utiliza o [Docsify](https://github.com/docsifyjs/docsify) para construir o site. As páginas são escritas em [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) e renderizadas pelo Docsify no lado do cliente.
 
-# Editar
+## Editar
 
 Todas as páginas estão disponíveis na pasta `/paginas`. Para editar uma página, basta alterar o conteúdo do seu respectivo arquivo `.md`.
 
