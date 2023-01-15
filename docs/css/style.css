@@ -4,3 +4,24 @@
 ion-icon {
     color: #ea6f5a;
 }
+/* #menuBtn{
+  
+} */
+.btnMapa{
+  background-color: #ea6f5a;
+  border: solid 1px #ea6f5a;
+  padding: 30px;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  margin: 12px;
+  font-size: 20pt;
+}
+.btnMapa:hover{
+  border-bottom: solid 3px rgba(0, 0, 0, 0.534);
+  border-right: solid 3px rgba(0, 0, 0, 0.534);
+}
+
+.c1{
+    height: 140px;
+  }
