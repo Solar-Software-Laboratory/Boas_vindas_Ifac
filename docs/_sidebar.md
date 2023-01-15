@@ -1,13 +1,14 @@
 <!-- docs/_sidebar.md -->
 <!-- Aqui onde fica a Barra lateral -->
 
-* [Apresentação](paginas/apresentacao.md "Apresentação")
-* [Grade Curricular](paginas/gradeCurricular.md "Grade Curricular")
-* [Carga Horária](paginas/cargaHoraria.md "Carga Horária")
-* [Sistema Acadêmico](paginas/SIGAA.md)
-* [Biblioteca](paginas/biblioteca.md "Biblioteca")
-* [Ajuda](paginas/guide.md "Ajuda")
-* [Colaboradores](paginas/colaboradores.md "Colaboradores")
+* [<ion-icon name="eye-outline"></ion-icon> Apresentação](paginas/apresentacao.md "Apresentação")
+* [<ion-icon name="bar-chart-outline"></ion-icon> Grade Curricular](paginas/gradeCurricular.md "Grade Curricular")
+* [<ion-icon name="alarm-outline"></ion-icon> Carga Horária](paginas/cargaHoraria.md "Carga Horária")
+* [<ion-icon name="laptop-outline"></ion-icon> Acesso aos sistemas](paginas/SIGAA.md "Acesso aos sistemas")
+* [<ion-icon name="library-outline"></ion-icon> Biblioteca](paginas/biblioteca.md "Biblioteca")
+* [<ion-icon name="wifi-outline"></ion-icon> WIFI](paginas/wifi.md "WIFI")
+* [<ion-icon name="help-outline"></ion-icon> Ajuda](paginas/guide.md "Ajuda")
+* [<ion-icon name="hammer-outline"></ion-icon> Colaboradores](paginas/colaboradores.md "Colaboradores")
 
 
 
