@@ -4,7 +4,7 @@
 * [Apresentação](paginas/apresentacao.md "Apresentação")
 * [Grade Curricular](paginas/gradeCurricular.md "Grade Curricular")
 * [Carga Horária](paginas/cargaHoraria.md "Carga Horária")
-* [SIGAA](paginas/SIGAA.md)
+* [Sistema Acadêmico](paginas/SIGAA.md)
 * [Biblioteca](paginas/biblioteca.md "Biblioteca")
 * [Ajuda](paginas/guide.md "Ajuda")
 * [Colaboradores](paginas/colaboradores.md "Colaboradores")
