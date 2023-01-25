@@ -4,6 +4,10 @@
 ion-icon {
     color: green;
 }
+.n1{
+  color: white;
+  font-size: 20pt;
+}
 /* #menuBtn{
   
 } */
@@ -43,4 +47,9 @@ ion-icon {
     margin: 2em 0;
     padding-left: 20px;
     font-weight: bold;
+}
+.titulo{
+  color: white;
+  font-weight: bold;
+  font-size: 30pt;
 }
